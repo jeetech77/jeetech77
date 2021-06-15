@@ -1,4 +1,4 @@
-# Hi there 👋, I am Ranjeet Singh, Welocme to my Github profile
+# Hi there 👋, I am Ranjeet Singh, Welocme to my GitHub profile
 
 <a href="https://twitter.com/Ranjeet20790022"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Ranjeet%20Singh-red?style=flat-square&logo=twitter"></a>
 <a href="mailto:rks772000@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Ranjeet%20Singh-red?style=flat-square&logo=gmail"></a>
