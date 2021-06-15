@@ -10,4 +10,4 @@
 - 👯 I’m looking to collaborate on Frontend projects.
 - 💬 Ask me about HTML , CSS and JS.
 
-![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeetech77&theme=dark&show_icons=true)
+![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeetech77&theme=outrun&show_icons=true)
