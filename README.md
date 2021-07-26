@@ -2,7 +2,7 @@
 
 <a href="https://twitter.com/jeetsdev"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Ranjeet%20Singh-red?style=flat-square&logo=twitter"></a>
 <a href="mailto:rks772000@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Ranjeet%20Singh-red?style=flat-square&logo=gmail"></a>
-<a href="https://ranjeet-singh.netlify.app/"><img alt="Portfolio" src="https://img.shields.io/badge/PortFoilo-Ranjeet%20Singh-red?style=flat-square&logo=Google%20Chrome"></a>
+<a href="https://jeetsdev.netlify.app/"><img alt="Portfolio" src="https://img.shields.io/badge/PortFoilo-Ranjeet%20Singh-red?style=flat-square&logo=Google%20Chrome"></a>
 ![](https://komarev.com/ghpvc/?username=jeetsdev&color=red&style=flat-square&label=Profile+Views)
 
 - 😊 Exploring new technologies and being a coding enthusiastic.
